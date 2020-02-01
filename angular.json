@@ -24,9 +24,29 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/ionicons.css",
+              "src/assets/css/isotope.css",
+              "src/assets/revolution/css/settings.css",
+              "src/assets/revolution/css/layers.css",
+              "src/assets/revolution/css/navigation.css",
+              "src/assets/css/mqueries.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-1.12.4.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/revolution/js/jquery.themepunch.tools.min.js",
+              "src/assets/revolution/js/jquery.themepunch.revolution.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.navigation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.video.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.actions.min.js",
+              "src/assets/js/jquery.imagesloaded.min.js",
+              "src/assets/js/jquery.isotope.min.js",
+              "src/assets/js/script.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tucode';
+  phone = '+254 724 088 765';
 }
